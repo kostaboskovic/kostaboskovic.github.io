@@ -19,6 +19,7 @@ main:
     url: /presentations/ 
 
   - title: "cv"
-    url: /cv/    
+    url: "https://kostaboskovic.github.io/files/KostaBoskovicCV.pdf"
+    target: "_blank" 
     
 
