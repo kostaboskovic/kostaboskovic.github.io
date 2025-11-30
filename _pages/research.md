@@ -19,7 +19,6 @@ author_profile: true
 > <div style="margin-bottom: 30px;">
   Words which denote temporal durations are highly prevalent in natural language but appear to pose a learning challenge for young children. With <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we investigate the challenges children may face in learning time words through a case study of the comparative "more". We ask whether 3- to 4-year-old children are able to comprehend "more" as applied to temporal duration (e.g., "John danced more than Mary"). On the one hand, that children only learn the precise meanings of words which denote temporal durations (e.g., "second", "hour") at 6 or 7 years old might suggest that young children may face a similar delay in learning "more" in reference to duration. On the other hand, prior research which has demonstrated comprehension of "more" in reference to numerical and spatial quantities at 3 years old and theories which posit a domain-general magnitude system common to number, space, and time may suggest that children would be able to apply their understanding of "more" to time already at 3 years old. Through this investigation, we aim to shed light on the mechanisms of time word learning and the relation of temporal quantification to quantification in other domains.
   <a href="javascript:void(0);" id="readMoreLink2" onclick="toggleText('moreText2')">
-  </div>
 
 
 <h2 style="margin: 40px 0px 10px;">Learning Abstract Nouns from Visual Scenes</h2>
