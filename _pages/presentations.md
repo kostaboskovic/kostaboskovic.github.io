@@ -14,7 +14,7 @@ author_profile: true
 
 - <b>Boskovic, K.</b> & Suanda, S.H. (2024, July 8-11). Revisiting the Informativity of Observational Contexts for Early-Learned Hard Nouns. [Oral Presentation]. International Congress of Infant Studies, Glasgow (XXIV ICIS 2024), Scotland, United Kingdom.
 
-- Suanda, S.H., <b>Boskovic, K.</b>, Schoener, N. & Yang, M. (2024, May 20-23). What Counts as Learning Matters: How Words are Learned in a Malevolent Referent World [Poster Presentation]. IEEE International Conference on Development and Learning (ICDL 2024), Austin, TX, United States. [\[poster\]](https://kostaboskovic.github.io/files/KBICLD2024Poster.pdf)
+- Suanda, S.H., <b>Boskovic, K.</b>, Schoener, N. & Yang, M. (2024, May 20-23). What Counts as Learning Matters: How Words are Learned in a Malevolent Referent World [Poster Presentation]. IEEE International Conference on Development and Learning (ICDL 2024), Austin, TX, United States. <a href="https://kostaboskovic.github.io/files/KBICDL2024Poster.pdf" target="_blank">poster</a>
 
 - <b>Boskovic, K.</b> & Suanda, S.H. (2024, March 21-23). Evaluating Observational Contexts for Learning Hard Nouns: How Word Learning is Measured is Key. [Poster Presentation]. Cognitive Development Society (CDS 2024), Pasadena, CA, United States. [\[poster\]](https://kostaboskovic.github.io/files/KBCDS2024Poster.pdf)
 
