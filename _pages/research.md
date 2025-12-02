@@ -7,6 +7,7 @@ author_profile: true
 <h2 style="margin: 20px 0px 10px;">Development of the Concept of Age</h2>
 
 > <div style="margin-bottom: 30px;">
+  <img src="../images/agefigure.jpg" alt="age figure" style="float: right; margin-right: 20px; width: 400px; height: auto;" />
   Age is a very salient and important concept in our social world, yet little is known about how children come to understand it. In a first project, with <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we found that preschool-aged children are able to use cues such as numerical age and facial and bodily morphology to judge which of two people is older, even if the older person was made to look smaller. Furthermore, we found that children's age judgments were related to their numerical knowledge. This suggests that children may not initially conflate age with size as suggested by prior studies, and that children only base age judgments on size when other cues are unavailable or not sufficiently discriminable.
   <a href="javascript:void(0);" id="readMoreLink1" onclick="toggleText('moreText1')">Read More</a>
   <div class="more-text" id="moreText1" style="display: none;">
