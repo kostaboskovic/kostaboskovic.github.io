@@ -30,14 +30,14 @@ author_profile: true
 <h2 style="margin: 40px 0px 10px;">Analogical Extension of Novel Words Across Dimensions</h2>
 
 > <div style="margin-bottom: 30px;"> 
-   <img src="../images/Conceptualanalogyfigure.jpg" alt="age figure" style="float: right; margin: 0 20px 0 40px; width: 400px; height: auto;" /> 
+   <img src="../images/Conceptualanalogyfigure.jpg" alt="age figure" style="float: right; margin: 0 20px 0 40px; width: 600px; height: auto;" /> 
    Magnitude words pose an interesting learning challenge for children as adjectives like "long" and "short" and "big" and "small" encode multiple dimensions of experience, such as number, time, and space. With <a href="https://urvi-maheshwari.github.io/" target="_blank">Urvi Maheshwari</a> and <a href="https://psychology.ucsd.edu/people/profiles/dbarner.html" target="_blank">David Barner</a>, we ask whether children begin with narrow meanings for magnitude words, restricted to the labeled dimension and only later extended to other dimensions via analogy, or broad meanings which span multiple dimensions. To do so, we ask whether 2- to 5-year-old children who learn a novel adjective denoting a magnitude in a spatial or numerical dimension readily extend it to an untrained dimension. This work aims to uncover the nature of children's hypotheses for word meanings and the role of analogy in word learning.
 
 
 <h2 style="margin: 40px 0px 10px;">Learning Abstract Nouns from Visual Scenes</h2>
 
 > <div style="margin-bottom: 30px;"> 
-   <img src="../images/hardnounsdesign.jpg" alt="age figure" style="float: right; margin: 0 20px 0 40px; width: 400px; height: auto;" /> 
+   <img src="../images/hardnounsdesign.jpg" alt="age figure" style="float: right; margin: 0 20px 0 40px; width: 600px; height: auto;" /> 
    Although the child's first few words label whole, concrete objects (e.g., "ball"), such highly concrete words make up only a small fraction of the adult lexicon. How, then are more abstract words learned? With <a href="https://psychology.uconn.edu/person/umay-suanda/" target="_blank">Umay Suanda</a>, we investigate the informativity of visual scenes for learning hard nouns, a class of abstract words. We reinvestigate the claim that the meanings of hard nouns cannot be learned from the visual scenes they co-occur with. Rather, through an adult cross-situational word learning task which includes several novel tests of learning, we find that although it is indeed difficult to learn the full meaning of a hard noun from its observational contexts, these visual scenes may inform a significant amount of systematic partial knowledge of the word's meaning. It is possible that this foundation of knowledge about the word's meaning plays a role in leading the learner to full understanding when other sources of information, such as linguistic contexts, are incorporated.
 
 
