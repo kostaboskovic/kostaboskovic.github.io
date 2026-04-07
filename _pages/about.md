@@ -17,7 +17,7 @@ I'm Kosta, a Ph.D. student in Psychology at the University of California, San Di
 
 3) How does the development and representation of concepts relate to learning language?
 
-I aim to answer these questions by conducting case studies in domains of abstract concepts such as logic, time, and emotion.
+I aim to answer these questions by conducting case studies in areas such as logic, time, and emotion.
 
 Previously, I completed my B.S. in Cognitive Science at the University of Connecticut, where I worked on cross-situational learning of abstract words with Umay Suanda in the <a href="https://comdev.uconn.edu" target="_blank">Communication and Development Lab</a>. When I am not thinking about thinking, I enjoy running, traveling the world, and cheering on the New England Patriots.
 

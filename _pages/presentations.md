@@ -4,6 +4,10 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+- <b>Boskovic, K.</b> & Barner, D. (2026, June 18-20). From placeholders to chronological understanding: The construction of the concept of age. [Poster Presentation]. Society for Philosophy and Psychology (SPP 2026), Baltimore, MD, United States.
+
+- <b>Boskovic, K.</b> & Barner, D. (2026, April 9-11). "That's a grown up!" Children's development of the concept of age. [Poster Presentation]. Cognitive Development Society (CDS 2026), Montreal, QC, Canada. <a href="https://kostaboskovic.github.io/files/KBCDS2026Poster.pdf" target="_blank">[poster]</a>
+
 - Suanda, S.H., <b>Boskovic, K.</b>, Schoener, N. & Yang, M. (2025, November 20-23). How Word Meanings can be Learned by Observation depends on What Counts as Learning. [Poster Presentation]. Annual Meeting of the Psychonomic Society (Psychonomics 66), Denver, CO, United States.
 
 - <b>Boskovic, K.</b> & Barner, D. (2025, November 6-9). Children’s quantification of time: A case study of the comparative “more”. [Poster Presentation]. Boston University Conference on Language Development (BUCLD 50), Boston, MA, United States. <a href="https://kostaboskovic.github.io/files/KBBUCLD50Poster.pdf" target="_blank">[poster]</a>
@@ -14,7 +18,7 @@ author_profile: true
 
 - <b>Boskovic, K.</b> & Suanda, S.H. (2024, July 8-11). Revisiting the Informativity of Observational Contexts for Early-Learned Hard Nouns. [Oral Presentation]. International Congress of Infant Studies, Glasgow (XXIV ICIS 2024), Scotland, United Kingdom.
 
-- Suanda, S.H., <b>Boskovic, K.</b>, Schoener, N. & Yang, M. (2024, May 20-23). What Counts as Learning Matters: How Words are Learned in a Malevolent Referent World [Poster Presentation]. IEEE International Conference on Development and Learning (ICDL 2024), Austin, TX, United States. <a href="https://kostaboskovic.github.io/files/KBICDL2024Poster.pdf" target="_blank">poster</a>
+- Suanda, S.H., <b>Boskovic, K.</b>, Schoener, N. & Yang, M. (2024, May 20-23). What Counts as Learning Matters: How Words are Learned in a Malevolent Referent World [Poster Presentation]. IEEE International Conference on Development and Learning (ICDL 2024), Austin, TX, United States. <a href="https://kostaboskovic.github.io/files/KBICDL2024Poster.pdf" target="_blank">[poster]</a>
 
 - <b>Boskovic, K.</b> & Suanda, S.H. (2024, March 21-23). Evaluating Observational Contexts for Learning Hard Nouns: How Word Learning is Measured is Key. [Poster Presentation]. Cognitive Development Society (CDS 2024), Pasadena, CA, United States. <a href="https://kostaboskovic.github.io/files/KBCDS2024Poster.pdf" target="_blank">[poster]</a>
 
