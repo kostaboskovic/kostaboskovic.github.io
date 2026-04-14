@@ -4,6 +4,8 @@ title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+- <b>Boskovic, K.</b> & Barner, D. (2026, July 22-25). Constructing a Concept of Age: Age Group Categories as Placeholder Structures. [Poster Presentation]. Cognitive Science Society (CogSci 2026), Rio de Janeiro, Brazil.
+
 - <b>Boskovic, K.</b> & Barner, D. (2026, June 18-20). From placeholders to chronological understanding: The construction of the concept of age. [Poster Presentation]. Society for Philosophy and Psychology (SPP 2026), Baltimore, MD, United States.
 
 - <b>Boskovic, K.</b> & Barner, D. (2026, April 9-11). "That's a grown up!" Children's development of the concept of age. [Poster Presentation]. Cognitive Development Society (CDS 2026), Montreal, QC, Canada. <a href="https://kostaboskovic.github.io/files/KBCDS2026Poster.pdf" target="_blank">[poster]</a>
