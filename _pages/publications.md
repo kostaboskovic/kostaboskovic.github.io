@@ -9,9 +9,9 @@ author_profile: true
 
 - <b>Boskovic, K.</b> & Barner, D. (under review). How Do Children Construct a Concept of Age? <a href="https://osf.io/preprints/psyarxiv/gvb46_v1" target="_blank">[psyarxiv]</a>
 
-- <b>Boskovic, K.</b> & Barner, D. (in prep). Children's Quantification of Time: A Case Study of the Comparative "More"
+- Maheshwari, U.&#42;, <b>Boskovic, K.&#42;</b>, & Barner, D. (under review). The Role of Analogy in the Linguistic Encoding of Number and Space <a href="https://osf.io/preprints/psyarxiv/ucxra_v1" target="_blank">[psyarxiv]</a>
 
-- Maheshwari, U.&#42;, <b>Boskovic, K.&#42;</b>, & Barner, D. (in prep). The Role of Analogy in the Linguistic Encoding of Number and Space
+- <b>Boskovic, K.</b> & Barner, D. (in prep). Children's Quantification of Time: A Case Study of the Comparative "More"
 
 - <b>Boskovic, K.</b>, Hubachek, S., Gopnik, A., & Walker, C. (in prep). How Specific is the Relationship Between the Development of Language and Relational Reasoning?
 
