@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there!
 
-I'm Kosta, a Ph.D. student in Psychology at the University of California, San Diego. I work with David Barner in the <a href="https://ladlab.ucsd.edu" target="_blank">Language and Development Lab</a>. I am interested in understanding the human capacity for abstract thought. I take a developmental approach, asking how children develop language and abstract concepts. Broadly, my research program addresses the following three, inter-related questions:
+I'm Kosta, a Ph.D. student in Psychology at the University of California, San Diego. I work with David Barner in the <a href="https://ladlab.ucsd.edu" target="_blank">Language and Development Lab</a>. I am interested in the human capacity for abstract thought. I take a developmental approach, asking how children develop language and abstract concepts. Broadly, my research program addresses the following three, inter-related questions:
 
 1) How do concepts develop?
 
