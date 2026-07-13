@@ -7,15 +7,15 @@ author_profile: true
 
 ## Journal Articles
 
-- <b>Boskovic, K.</b> & Barner, D. (in press). How do children construct a concept of age? *Developmental Psychology*. Advance online publication. <a href="https://doi.org/10.1037/dev0002223" target="_blank">[publisher download]</a> <a href="https://kostaboskovic.github.io/files/Boskovic&Barner2026.pdf" target="_blank">[pdf]</a>
+- <b>Boskovic, K.</b> & Barner, D. (2026). How do children construct a concept of age? *Developmental Psychology*. Advance online publication. <a href="https://doi.org/10.1037/dev0002223" target="_blank">[publisher download]</a> <a href="https://kostaboskovic.github.io/files/Boskovic&Barner2026.pdf" target="_blank">[pdf]</a>
 
 - Maheshwari, U.&#42;, <b>Boskovic, K.&#42;</b>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space <a href="https://osf.io/preprints/psyarxiv/ucxra_v1" target="_blank">[psyarxiv]</a>
 
 - <b>Boskovic, K.</b>, Hubachek, S., Gopnik, A., & Walker, C. (under review). How specific is the relationship between the development of language and relational reasoning?
 
-- <b>Boskovic, K.</b> & Barner, D. (in prep). Children's quantification of time: A case study of the comparative "more"
+- <b>Boskovic, K.</b> & Barner, D. (under review). Children predict physical, social, and psychological traits from perceived age <a href="https://osf.io/preprints/psyarxiv/7ws82_v1" target="_blank">[psyarxiv]</a>
 
-- <b>Boskovic, K.</b> & Barner, D. (in prep). Children predict biological, behavioral, and social traits from perceived age
+- <b>Boskovic, K.</b> & Barner, D. (in prep). Children's quantification of time: A case study of the comparative "more"
 
 - <b>Boskovic, K.</b> & Barner, D. (in prep). Young children’s labeling of emotions from desire fulfillment for self and other
 
