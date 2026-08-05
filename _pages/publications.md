@@ -22,7 +22,7 @@ author_profile: true
 
 ## Conference Proceedings (Peer-Reviewed) 
 
-- <b>Boskovic, K. </b> & Barner, D. (forthcoming). Constructing a concept of age: Age group categories as placeholder structures. *Proceedings of the 48th Annual Meeting of the Cognitive Science Society*
+- <b>Boskovic, K. </b> & Barner, D. (2026). Constructing a concept of age: Age group categories as placeholder structures. *Proceedings of the 48th Annual Meeting of the Cognitive Science Society* <a href="https://escholarship.org/uc/item/2ww2s9bd" target="_blank">[publisher download]</a>
 
 - <b>Boskovic, K. </b> & Suanda, S.H. (2023). Laying the Foundation: Extracting Partial Meanings of Hard Nouns via Observational Contexts. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society* <a href="https://escholarship.org/uc/item/6f88f9nz" target="_blank">[publisher download]</a>
 
