@@ -9,6 +9,8 @@ author_profile: true
 
 - <b>Boskovic, K.</b> & Barner, D. (2026). How do children construct a concept of age? *Developmental Psychology*. Advance online publication. <a href="https://doi.org/10.1037/dev0002223" target="_blank">[publisher download]</a> <a href="https://kostaboskovic.github.io/files/Boskovic&Barner2026.pdf" target="_blank">[pdf]</a>
 
+- <b>Boskovic, K.</b> & Barner, D. (under review). Is language the source of logical thought?
+
 - Maheshwari, U.&#42;, <b>Boskovic, K.&#42;</b>, & Barner, D. (under review). The role of analogy in the linguistic encoding of number and space <a href="https://osf.io/preprints/psyarxiv/ucxra_v1" target="_blank">[psyarxiv]</a>
 
 - <b>Boskovic, K.</b>, Hubachek, S., Gopnik, A., & Walker, C. (under review). How specific is the relationship between the development of language and relational reasoning?
