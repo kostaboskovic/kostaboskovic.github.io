@@ -22,6 +22,11 @@ author_profile: true
 - <b>Boskovic, K.</b> & Barner, D. (in prep). Young children’s labeling of emotions from desire fulfillment for self and other
 
 
+## Invited Book Chapters
+
+- Pepe, W., <b>Boskovic, K.</b>, & Smith-Flores, A. (invited chapter in prep). Infants' understanding of success and failure. In I. A. Heck & L. P. Butler (Eds.), *The Oxford Handbook of the Development of Social Cognition.*
+
+
 ## Conference Proceedings (Peer-Reviewed) 
 
 - <b>Boskovic, K. </b> & Barner, D. (2026). Constructing a concept of age: Age group categories as placeholder structures. *Proceedings of the 48th Annual Meeting of the Cognitive Science Society* <a href="https://escholarship.org/uc/item/2ww2s9bd" target="_blank">[publisher download]</a>
