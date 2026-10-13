@@ -24,7 +24,7 @@ author_profile: true
 
 ## Invited Book Chapters
 
-- Pepe, W., <b>Boskovic, K.</b>, & Smith-Flores, A. (invited chapter in prep). Infants' understanding of success and failure. In I. A. Heck & L. P. Butler (Eds.), *The Oxford Handbook of the Development of Social Cognition.*
+- Pepe, W., <b>Boskovic, K.</b>, & Smith-Flores, A. (in prep). Infants' understanding of success and failure. In I. A. Heck & L. P. Butler (Eds.), *The Oxford Handbook of the Development of Social Cognition.*
 
 
 ## Conference Proceedings (Peer-Reviewed) 
